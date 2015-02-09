@@ -1,0 +1,7 @@
+Welcome to my implementation of neural nets!
+
+Format:
+ -A neural network will be represented as an array of Layer objects, as well as an error function
+ -A Layer object will feature:
+    -Weights between this layer and the previous as a numpy array (layer.W)
+    -Activation function for this layer (of type ActivationFun)
